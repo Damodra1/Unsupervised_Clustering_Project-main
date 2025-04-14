@@ -108,4 +108,4 @@ Inspired by classic mall customer datasets used for segmentation and behavioral 
 
 ## Contact
 
-For any questions or suggestions, feel free to contact the project maintainer at pand0106@algonquinlive.com
+For any questions or suggestions, feel free to contact the project maintainer at damodrataksh@gmail.com
